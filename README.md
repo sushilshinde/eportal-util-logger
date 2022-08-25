@@ -45,5 +45,15 @@ Using pnpm:
 $ pnpm add eportal-util-logger
 ```
 
+### Usage
+
+```bash
+const logger = require("eportal-util-logger")
+
+logger.info("hello logger")
+
+```
+
+
 ### License
 NA
