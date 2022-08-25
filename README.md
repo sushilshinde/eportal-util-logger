@@ -11,7 +11,7 @@ This lib used by eportal internal projects for logging
 
 ## ENV Specific setting
 ### In local environment, no env var is required to be setup 
-### For AWS env for are the env vars required to be setup
+### For AWS envm, the env vars required to be setup are
 ```bash
 LOG_LEVEL, AWS_LOG_GROUP_NAME,AWS_LOG_GROUP_NAME,
 AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY, AWS_REGION
