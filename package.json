@@ -1,16 +1,22 @@
 {
   "name": "eportal-util-logger",
   "version": "1.0.0",
-  "description": "",
+  "description": "Logger for eportal projects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["eportal"],
+  "author": "https://github.com/sushilshinde",
+  "license": "UNLICENSED",
   "dependencies": {
     "winston": "^3.8.1",
     "winston-aws-cloudwatch": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushilshinde/eportal-util-logger"
+  },"bugs": {
+    "url": "https://github.com/sushilshinde/eportal-util-logger/issues"
   }
 }
